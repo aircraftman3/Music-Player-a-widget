@@ -123,22 +123,22 @@
 }
 
 .player-list {
-
+    display: none;
     width: 360px;
     height: 480px;
     background-color: #f3f4f8;
     position: absolute;
-    left: 30%;
+    left: 3%;
     top: 10%;
     border-radius: 25px;
 }
 
 .first-image {
-    right: 105px;
+    right: 62px;
 }
 
 .second-image {
-    right: 78px;
+    right: 35px;
 }
 
 .first-image, .second-image {
